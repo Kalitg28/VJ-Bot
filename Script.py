@@ -230,10 +230,8 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ :  {file_name}
 
-Size ⚙️: {file_size}
-
 ⁣✧━━━▣✧❅✦❅✧▣━━━✧
-    🍁 @TamilRockerz_TR 🍁
+    🦋 @TamilRockerz_TR 🦋
 ✧━━━▣✧❅✦❅✧▣━━━✧
    ♡ ㅤ   ❍ㅤ      ⎙      ⌲
   ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ   ˢʰᵃʳᵉ </b>""" 
@@ -246,6 +244,7 @@ IMDb Data:
 <b>🏷 Title: <a href={url}>{title}</a>
 🎭 Genres: {genres}
 📆 Year: <a href={url}/releaseinfo>{year}</a>
+🔊 Audio : {languages}
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
 📥 Upload : @TamilRockerz_TR</b>"""
     
