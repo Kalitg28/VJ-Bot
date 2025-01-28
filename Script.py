@@ -231,7 +231,7 @@ Nᴀᴍᴇ - {}"""
     CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ :  {file_name}
 
 ⁣✧━━━▣✧❅✦❅✧▣━━━✧
-    🦋 @TamilRockerz_TR 🦋
+   🦋@TG_Official_Movies🦋
 ✧━━━▣✧❅✦❅✧▣━━━✧
    ♡ ㅤ   ❍ㅤ      ⎙      ⌲
   ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ   ˢʰᵃʳᵉ </b>""" 
@@ -246,7 +246,7 @@ IMDb Data:
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🔊 Audio : {languages}
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
-📥 Upload : @TamilRockerz_TR</b>"""
+📥 Upload : @TG_Official_Movies</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
@@ -700,9 +700,9 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = """
 <b>
 ┏━•❃𓊈𒆜Oᴡɴᴇʀ Dᴇᴛᴀɪʟꜱ𒆜𓊉❃•━┓   
-◈ ᴛɢ ɴᴀᴍᴇ : ༄㉿ᴬℓ𝓲࿐
-◈ ᴜꜱᴇʀɴᴀᴍᴇ : @King_of_Kali 
-◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/King_of_Kali'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+◈ ᴛɢ ɴᴀᴍᴇ : 𝐓𝐆 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐨𝐯𝐢𝐞𝐬
+◈ ᴜꜱᴇʀɴᴀᴍᴇ : @TG_Official_Movies 
+◈ ᴘᴇʀᴍᴀɴᴇɴᴛ ᴅᴍ ʟɪɴᴋ : <a href='https://t.me/TG_Official_Movies'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 
 ‿︵‿︵‿︵‿୨❤୧‿︵‿︵‿︵‿</b>
 """
