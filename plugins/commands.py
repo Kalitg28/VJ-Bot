@@ -27,8 +27,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⤬ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ],[
-            InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/Kali_Botz_Support"),
-            InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/Movies_Request_TR')
+            InlineKeyboardButton('✪ Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ', url="https://t.me/TG_Official_Group"),
+            InlineKeyboardButton('⌬ Mᴏᴠɪᴇ Gʀᴏᴜᴘ', url='https://t.me/TG_Official_Group')
         ],[
             InlineKeyboardButton('✇ Jᴏɪɴ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ ✇', url=CHNL_LNK)
         ]]
@@ -271,7 +271,7 @@ async def start(client, message):
                 if STREAM_MODE == True:
                     button = [[
                         
-                        InlineKeyboardButton('🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋', url=CHNL_LNK)
+                        InlineKeyboardButton('𝐓𝐆 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐨𝐯𝐢𝐞𝐬', url=CHNL_LNK)
                  
                     ],[
                         InlineKeyboardButton("🚀 Fast Download 🚀", url=download),  # we download Link
@@ -281,9 +281,9 @@ async def start(client, message):
                     ]]
                 else:
                     button = [[
-                        InlineKeyboardButton('🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋', url=CHNL_LNK)
+                        InlineKeyboardButton('𝐓𝐆 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐨𝐯𝐢𝐞𝐬', url=CHNL_LNK)
                     ],[
-                        InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/Kalitgadmin_Bot")
+                        InlineKeyboardButton('𝗕𝗢𝗧 𝗢𝗪𝗡𝗘𝗥', url="https://t.me/hhfffgbb")
                     ]]
                 msg = await client.send_cached_media(
                     chat_id=message.from_user.id,
@@ -466,7 +466,7 @@ async def start(client, message):
             if STREAM_MODE == True:
                 button = [[
                     
-                    InlineKeyboardButton('🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋', url=CHNL_LNK)
+                    InlineKeyboardButton('𝐓𝐆 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐨𝐯𝐢𝐞𝐬', url=CHNL_LNK)
                 
                 ],[
                     InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @KingVJ01
@@ -474,7 +474,7 @@ async def start(client, message):
             else:
                 button = [[
                     
-                    InlineKeyboardButton('🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋', url=CHNL_LNK)
+                    InlineKeyboardButton('𝐓𝐆 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐨𝐯𝐢𝐞𝐬', url=CHNL_LNK)
                 
                 ]]
             msg = await client.send_cached_media(
@@ -537,7 +537,7 @@ async def start(client, message):
             if STREAM_MODE == True:
                 button = [[
                     
-                    InlineKeyboardButton('🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋', url=CHNL_LNK)
+                    InlineKeyboardButton('🦋 𝐓𝐆 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐨𝐯𝐢𝐞𝐬 🦋', url=CHNL_LNK)
                 
                 ],[
                     InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @KingVJ01
@@ -545,7 +545,7 @@ async def start(client, message):
             else:
                 button = [[
                     
-                    InlineKeyboardButton('🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋', url=CHNL_LNK)
+                    InlineKeyboardButton('🦋 𝐓𝐆 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐨𝐯𝐢𝐞𝐬 🦋', url=CHNL_LNK)
                
                 ]]
             msg = await client.send_cached_media(
@@ -607,7 +607,7 @@ async def start(client, message):
     if STREAM_MODE == True:
         button = [[
             
-            InlineKeyboardButton('🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋', url=CHNL_LNK)
+            InlineKeyboardButton('🦋 𝐓𝐆 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐨𝐯𝐢𝐞𝐬 🦋', url=CHNL_LNK)
       
         ],[
             InlineKeyboardButton('🚀 Fast Download / Watch Online🖥️', callback_data=f'generate_stream_link:{file_id}') #Don't change anything without contacting me @KingVJ01
@@ -615,7 +615,7 @@ async def start(client, message):
     else:
         button = [[
             
-            InlineKeyboardButton('🦋 𝐓𝐚𝐦𝐢𝐥𝐑𝐨𝐜𝐤𝐞𝐫𝐳 𝐓𝐑 🦋', url=CHNL_LNK)
+            InlineKeyboardButton('🦋 𝐓𝐆 𝐎𝐟𝐟𝐢𝐜𝐢𝐚𝐥 𝐌𝐨𝐯𝐢𝐞𝐬 🦋', url=CHNL_LNK)
         
         ]]
     msg = await client.send_cached_media(
