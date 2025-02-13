@@ -19,7 +19,7 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
     
 ‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/{}>{}</a>
 ‣ ᴍʏ ʙᴇsᴛ ғʀɪᴇɴᴅ : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
-‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Kalitgadmin_Bot'>༄㉿ᴬℓ𝓲࿐</a> 
+‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/Indian_MV_Owner'>༄㉿ᴬℓ𝓲࿐</a> 
 ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
 ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -111,9 +111,9 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
     EXTRAMOD_TXT = """ʜᴇʟᴘ: Exᴛʀᴀ Mᴏᴅᴜʟᴇs
 <b>ɴᴏᴛᴇ:</b>
 my features Stay here new features coming soon...  
- <b>✯ Maintained by : <a href=https://t.me/King_of_Kali>༄㉿ᴬℓ𝓲࿐</a></b>
+ <b>✯ Maintained by : <a href=https://t.me/Indian_MV_Owner>༄㉿ᴬℓ𝓲࿐</a></b>
   
- <b>✯ Join here : <a href=https://t.me/TamilRockerz_TR>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Indian_MV>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -228,13 +228,9 @@ Nᴀᴍᴇ - {}"""
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-    CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ :  {file_name}
+    CAPTION = """<b📂 Fɪʟᴇ ɴᴀᴍᴇ : <b>{file_name}
 
-⁣✧━━━▣✧❅✦❅✧▣━━━✧
-   🦋@TG_Official_Movies🦋
-✧━━━▣✧❅✦❅✧▣━━━✧
-   ♡ ㅤ   ❍ㅤ      ⎙      ⌲
-  ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ   ˢᵃᵛᵉ   ˢʰᵃʳᵉ </b>""" 
+➥ 𝗝𝗼𝗶𝗻 ➼「<a href="https://t.me/Indian_MV">🇮🇳 𝐈𝐧𝐝𝐢𝐚𝐧 𝐌𝐕 🇮🇳</a>」</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -246,7 +242,7 @@ IMDb Data:
 📆 Year: <a href={url}/releaseinfo>{year}</a>
 🔊 Audio : {languages}
 🌟 Rating: <a href={url}/ratings>{rating}</a> / 10
-📥 Upload : @TG_Official_Movies</b>"""
+📥 Upload : @Indian_MV</b>"""
     
     ALL_FILTERS = """
 <b>Hᴇʏ {}, Tʜᴇsᴇ ᴀʀᴇ ᴍʏ ᴛʜʀᴇᴇ ᴛʏᴘᴇs ᴏғ ғɪʟᴛᴇʀs.</b>"""
